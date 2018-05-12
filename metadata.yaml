@@ -1,0 +1,43 @@
+_repo: The-House-in-the-Water--A-Book-of-Animal-Stories_29839
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Bull, Charles Livingston
+    birthdate: 1874
+    deathdate: 1932
+    gutenberg_agent_id: '9742'
+    url: http://www.gutenberg.org/2009/agents/9742
+  - agent_name: Smith, Frank Vining
+    birthdate: 1879
+    deathdate: 1967
+    gutenberg_agent_id: '34206'
+    url: http://www.gutenberg.org/2009/agents/34206
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roberts, Charles G. D., Sir
+    aliases:
+    - Roberts, Sir Charles George Douglas
+    - Roberts, Charles George Douglas, Sir
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '2272'
+    url: http://www.gutenberg.org/2009/agents/2272
+    wikipedia: http://en.wikipedia.org/wiki/Charles_G._D._Roberts
+description: ''
+gutenberg_bookshelf: Animals-Wild
+gutenberg_issued: '2009-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29839'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Animals -- Anecdotes'
+title: 'The House in the Water: A Book of Animal Stories'
+url: http://www.gutenberg.org/ebooks/29839
